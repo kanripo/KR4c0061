@@ -18,6 +18,8 @@
 　　　　殘絲曲¶
 垂楊葉老鶯哺兒殘絲欲斷黄蜂歸緑𩯭少年金&KR0107;¶
 <pb:KR4c0061_SBCK_001-1b>¶
+# SB1_0711-019.png
+# page missing
 <pb:KR4c0061_SBCK_001-1b>¶
 去何事還車載病身¶
 　　　　示弟¶
@@ -245,6 +247,7 @@
 <pb:KR4c0061_SBCK_001-12a>¶
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0307-001李賀歌詩編外詩-一卷.
+# ?
 <pb:KR4c0061_SBCK_001-1a>¶
 集外詩¶
 　　　南園¶
